@@ -4,7 +4,7 @@ En este repositorio podrá encontrar un análisis del datset Superstore, donde e
 ## Objetivo
 ## Dataset utilizado
 ## Proceso realizado
-## Análisis realiado
+## Análisis realizado
 ## Principales conclusiones
 ## Archivos del proyecto
 ## Autor
