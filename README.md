@@ -12,17 +12,27 @@ EL objetivo es realizar un análisis de un conjunto de datos de elección propia
 
 ## Dataset utilizado
 
-Fuente: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data
-Descripción: Datos de ventas de una tienda minorista en EE.UU
-Tamaño: 9.995 filas y 21 columna 
+Fuente: https://www.kaggle.com/datasets/vivek468/superstore-dataset-final/data.
+Descripción: Datos de ventas de una tienda minorista en EE.UU.
+Tamaño: 9.995 filas y 21 columna .
 Variables Principales:
-           Order ID, Order Date, Ship Date, Ship Mode
-           Customer ID, Customer Name, Segment, Region, City, State, Country
-           Product ID, Category, Sub-Category, Product Name
-           Sales, Quantity, Discount, Profit
+           Order ID, Order Date, Ship Date, Ship Mode.
+           Customer ID, Customer Name, Segment, Region, City, State, Country.
+           Product ID, Category, Sub-Category, Product Name.
+           Sales, Quantity, Discount, Profit.
 
 ## Proceso realizado
+
+Este proyecto se desarolló siguiendo los pasos realizados en el curso en base al proyecto modelo del curso
 ## Análisis realizado
 ## Principales conclusiones
+
 ## Archivos del proyecto
+
+Superstore.xlsx: archivo principal del proyecto.Incluye Datos originales sin limpiar, datos limpios, análisis de ventas, análisis de los beneficios y pérdidas , análisis cantidad, análisis tipo de envío, tablas dashboard, dashboard y notas.
+Informe_Analisis_superstore: Informe explicativo  del análisis realizado  así como el problema  encontrado en la importación del archivo csv.
+Sample-Superstore.csv : Archivo descargado de la página Kaggle.
+
+
 ## Autor
+Proyecto realizado por Galia Sidahmed Merino
