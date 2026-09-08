@@ -35,6 +35,8 @@ En este proyecto se analizaron diferentes aspectos del negocio:
 
 ## Principales conclusiones
 
+Superstore muestra una empresa con una evolución positiva de las ventas durante el periodo 2014 al 2017. Las ventas presentan una tendencia de creciente especialmente en los dos ultimos años, hay una clara estacionalidad  en las ventas en el cuarto trimestre de cada año.La categoría Technology destaca en cuanto a ventas y rentabilidad ,Officde Supplies sobresale en cuanto volumen lo que es razonable ppr le tipo de producto. Sin embargo Furniture se encuentra en la segunda posición de ventas pero en cambio su rentabilidad es baja e incluso la mayor parte de las perdidas viene de esta categoría.Consumer es el cliente principal y las regiones West y East concentran mejores resultados.Finalmente el tipo de envio mas utlizado es el Standard pero el mas rentable es First Class.
+
 ## Archivos del proyecto
 
 Superstore.xlsx: archivo principal del proyecto.Incluye Datos originales sin limpiar, datos limpios, análisis de ventas, análisis de los beneficios y pérdidas , análisis cantidad, análisis tipo de envío, tablas dashboard, dashboard y notas.
