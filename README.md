@@ -4,7 +4,7 @@ En este repositorio podrá encontrar un análisis del datset Superstore, donde e
 ## Descripción del proyecto
 
 La idea de este proyecto es aplicar los conocimientos que se han adquirido en el módulo “ Dashboard & Análisis de Datos”.
-En donde tenemos que seleccionar un base de datos, con un numero mínimo de 10 columnas y al menos 2000 filas y elegir con que herramienta vamos a trabajar si es Excel o Google Sheets.
+Tenemos que seleccionar un base de datos, con un numero mínimo de 10 columnas y al menos 2000 filas,y seleccionar una de estas dos herramientas  Excel o Google Sheets.
 
 ## Objetivo
 
@@ -23,8 +23,16 @@ Variables Principales:
 
 ## Proceso realizado
 
-Este proyecto se desarolló siguiendo los pasos realizados en el curso en base al proyecto modelo del curso
+Este proyecto se desarrolló siguiendo los pasos siguientes importación del archivo CSV en excel, se procedió a realizar la revisión de las columnas y tipos de datos, corrección del formato numérico de Sales, Profit, Discount esto se tuvo q realizarse en el proceso de la importación, transformación de fechas, revisión de duplicados, comprobación de valores nulos, creación de columnas auxiliares como Month, Trimestre, Year, Take to, creación de las tablas dinámicas, análisis descriptivo, informe explicativo y diseño del dashboard final.
+
 ## Análisis realizado
+
+En este proyecto se analizaron diferentes aspectos del negocio:
+       Ventas por año, trimestre, categoría,subcategoría, region y tipo de cliente
+       Beneficio por categoría, subcategoría,producto,region y tipo de envío
+       Cantidad vendida por categoría,subcategoría,producto, regio y cliente
+       Tiempos de envíos
+
 ## Principales conclusiones
 
 ## Archivos del proyecto
